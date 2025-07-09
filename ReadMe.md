@@ -1,4 +1,5 @@
 # JWT - JSON Web Token ([RFC7519](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.4)) en-/decoder
+lightweight and simple JWT en-/decoder with signature check written in vanilla js
 
 This library uses as little code as possible while still implementing signature checking for HS256, HS384 and HS512.
 

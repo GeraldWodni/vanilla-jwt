@@ -1,7 +1,7 @@
 {
   "name": "vanilla-jwt",
   "version": "0.9.0",
-  "description": "lightweight and simple JWT en-/decoder with signature check",
+  "description": "lightweight and simple JWT en-/decoder with signature check written in vanilla js",
   "keywords": [
     "jwt",
     "pure",
