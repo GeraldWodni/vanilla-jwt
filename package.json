@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-jwt",
+  "version": "0.9.0",
+  "description": "lightweight and simple JWT en-/decoder with signature check",
+  "keywords": [
+    "jwt",
+    "pure",
+    "javascript",
+    "vanilla"
+  ],
+  "homepage": "https://github.com/GeraldWodni/jwt#readme",
+  "bugs": {
+    "url": "https://github.com/GeraldWodni/jwt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldWodni/jwt.git"
+  },
+  "license": "MIT",
+  "author": "Gerald Wodni <gerald.wodni@gmail.com>",
+  "type": "mjs",
+  "main": "jwt.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  }
+}
